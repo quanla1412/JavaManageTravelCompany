@@ -1,0 +1,87 @@
+5
+Buu Long,23/12/2021,24/12/2021,9890000
+1
+Bien Hoa,Nhiet Doi Gio Mua,30 doC,Tieng Viet,23/12/2021,24/12/2021
+3
+NH,Tan Phan,440 Pham Van Thuan - Bien Hoa - Dong Nai,4 Sao,Gia Dinh 4 Nguoi,23/12/2021,500000
+NH,Doan Quy,563 Tan Mai - Bien Hoa - Dong Nai,5 Sao,Mot Nguoi,24/12/2021,120000
+KS,Cat Tuong,220 binh Da - Bien Hoa - Dong Nai,4 Sao,23/12/2021,24/12/2021,400000
+5
+HK1,Nguyen Hoang,11/10/1998,Ho Chi Minh,0987654321,985161635,VIP,18
+HK2,Hoang Thanh,18/02/1995,Ha Noi,0987654123,231551623,TV,10
+HK3,Thanh Nguyen,16/04/1993,Ha Noi,0987665544,526846231,TV,12
+HK4,Nguyen Tran,28/09/1994,Ho Chi Minh,0988877755,135186486,VIP,14
+HDV1,Trung Tran,12/03/1989,Ho Chi Minh,0923456789,21616556,3 nam,12/03/1986
+2
+F9-2012,2,Xe may
+51A-28888,4,Xe hoi
+Dia dao Cu Chi,20/12/2021,22/12/2021,6999000
+1
+TPHCM,Nhiet Doi Gio Mua,32 doC,Tieng Viet, Tieng Anh,20/12/2021
+5
+NH,Tan Pham,253 Ly Thai To - Quan 5 - TPHCM,5 Sao,Gia Dinh 5 Nguoi,20/12/2021,400000
+NH,Huu Chien,144 Au Co - Quan Tan Binh - TPHCM,4 Sao,Gia Dinh 4 Nguoi,21/12/2021,480000
+NH,Quan Tran,20 An Duong Vuong - Quan 5 - TPHCM,5 Sao,Mot Nguoi,22/12/2021,200000
+KS,Le Na,332 Ba Thang Hai - Quan 5 - TPHCM,5 Sao,20/12/2021,21/12/2021,680000
+KS,Doan Duy,23 Ly Thuong Kiet - Quan 5 - TPHCM,4 Sao,21/12/2021,22/12/2021,420000
+3
+HK5,Nguyen Trung,11/03/1994,Ho Chi Minh,0987654365,98516455,TV,09
+HK6,Hoang Kieu,27/02/1998,Ha Noi,0987694511,231551654,TV,10
+HDV2,Mai Nguyen,12/03/1989,Ho Chi Minh,0923456789,21616556,3 nam,12/03/1986
+3
+59B-3012,2,Xe may
+86A-15922,4,Xe hoi
+019E-922,160,Xe lua
+Doi con heo,25/12/2021,27/12/2021,11500000
+1
+Ba Ria Vung Tau,Nhiet Doi Gio Mua,30 doC,Tieng Viet, Tieng Anh,25/12/2021
+4
+NH,Phuoc Hai,352 Phuoc Hai - Ba Ria Vung Tau,3 Sao,Gia Dinh 4 Nguuoi,25/12/2021,320000
+NH,Lan Rung,221 Truong Cong Dinh - Ba Ria Vung Tau,4 Sao,Mot Nguoi,26/12/2021,200000
+KS,Fusion Suites,12-14 Thuy Van - Ba Ria Vung Tau,4 Sao,25/12/2021,26/12/2021,410000
+KS,Green Garden,2 Truong Cong Dinh - Ba Ria Vung Tau,5 Sao,26/12/2021,27/12/2021,500000
+4
+HK7,Thanh Nguyen,24/04/1993,Ha Noi,0987648632,526846414,TV,16
+HK8,Thanh Thao,27/02/1994,Ho Chi Minh,0988874541,135186963,TV,09
+HK9,Tran Tien,25/09/1993,Ho Chi Minh,0987658974,985161321,VIP,18
+HDV3,Thanh Tra,19/11/1987,Ho Chi Minh,0956432189,516846115,4 nam,19/11/1983
+3
+MH-221,120,May bay
+F2-2222,2,Xe may
+BV-299432.TS,46,Tau thuy
+Pho co Ha Noi,12/12/2021,14/12/2021,12500000
+1
+Ha Noi,Nhiet Doi Gio Mua,28 doC,Tieng Viet, Tieng Anh,12/12/2021
+4
+NH,Vo Thi Sau,23 Tran Nhan Tong - Ha Noi,5 Sao,Gia Dinh 4 Nguoi,12/12/2021,360000
+NH,Kim Ma,52 Dinh Tien Hoang - Ha Noi,4 Sao,Gia Dinh 4 Nguoi,13/12/2021,280000
+NH,Cau Giay,450 Phan Dinh Phung - Ha Noi,5 Sao,Mot Nguoi,14/12/2021,300000
+KS,Le Loi,332 Hoang Dieu - Ha Noi,5 Sao,12/12/2021,14/12/2021,700000
+4
+HK10,Thanh Nam,16/02/1995,Ha Noi,0987650234,231551469,TV,10
+HK11,Phuc Nguyen,24/11/1998,Ho Chi Minh,0987661463,526847510,TV,12
+HK12,Thanh Hoai,24/09/1994,Ho Chi Minh,0988876655,135188896,VIP,25
+HDV4,Nguyen My,29/07/1988,Ho Chi Minh,0976534156,156181515,2 nam,29/07/1986
+4
+MH-341,120,May bay
+MH-531,160,May bay
+60B-62018,8,Xe hoi
+60B-1028,2,Xe may
+Nui ngu hanh son,08/12/2021,10/12/2021,13950000
+1
+Ha Noi,Nhiet Doi Gio Mua,28 doC,Tieng Viet, Tieng Anh,12/12/2021
+4
+NH,Vo Thi Sau,23 Tran Nhan Tong - Ha Noi,5 Sao,Gia Dinh 4 Nguoi,12/12/2021,360000
+NH,Kim Ma,52 Dinh Tien Hoang - Ha Noi,4 Sao,Gia Dinh 4 Nguoi,13/12/2021,280000
+NH,Cau Giay,450 Phan Dinh Phung - Ha Noi,5 Sao,Mot Nguoi,14/12/2021,300000
+KS,Le Loi,332 Hoang Dieu - Ha Noi,5 Sao,12/12/2021,14/12/2021,700000
+4
+HK13,Thanh Nam,16/02/1995,Ha Noi,0987650234,231551469,TV,10
+HK14,Phuc Nguyen,24/11/1998,Ho Chi Minh,0987661463,526847510,TV,12
+HK15,Thanh Hoai,24/09/1994,Ho Chi Minh,0988876655,135188896,VIP,25
+HDV5,Nguyen My,29/07/1988,Ho Chi Minh,0976534156,156181515,2 nam,29/07/1986
+4
+MH-341,120,May bay
+MH-531,160,May bay
+60B-62018,8,Xe hoi
+60B-1028,2,Xe may

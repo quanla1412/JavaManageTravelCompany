@@ -1,0 +1,32 @@
+
+-----------Danh sách thành viên-------------
+
+Thành viên thứ 1: 
+ID là: HK1
+Tên là: Nguyen Trung
+Ngày sinh là: 11/03/1994
+Địa Chỉ là: Ho Chi Minh
+Số điện thoại là: 0987654365
+Số CMND là: 98516455
+Loại thành viên là: TV
+Điểm tích lũy là: 09
+
+Thành viên thứ 2: 
+ID là: HK2
+Tên là: Hoang Kieu
+Ngày sinh là: 27/02/1998
+Địa Chỉ là: Ha Noi
+Số điện thoại là: 0987694511
+Số CMND là: 231551654
+Loại thành viên là: TV
+Điểm tích lũy là: 10
+
+Thành viên thứ 3: 
+ID là: HDV1
+Tên là: Mai Nguyen
+Ngày sinh là: 12/03/1989
+Địa Chỉ là: Ho Chi Minh
+Số điện thoại là: 0923456789
+Số CMND là: 21616556
+Kinh nghiệm HDV là: 3 nam
+Ngày vào làm là: 12/03/1986--------------------------
